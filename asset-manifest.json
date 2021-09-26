@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21edb01d.chunk.css",
+    "main.js": "/static/js/main.6a971eba.chunk.js",
+    "main.js.map": "/static/js/main.6a971eba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ff926844.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ff926844.js.map",
+    "static/css/2.1944ade6.chunk.css": "/static/css/2.1944ade6.chunk.css",
+    "static/js/2.933b19cc.chunk.js": "/static/js/2.933b19cc.chunk.js",
+    "static/js/2.933b19cc.chunk.js.map": "/static/js/2.933b19cc.chunk.js.map",
+    "static/js/3.60ce44ca.chunk.js": "/static/js/3.60ce44ca.chunk.js",
+    "static/js/3.60ce44ca.chunk.js.map": "/static/js/3.60ce44ca.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1944ade6.chunk.css.map": "/static/css/2.1944ade6.chunk.css.map",
+    "static/css/main.21edb01d.chunk.css.map": "/static/css/main.21edb01d.chunk.css.map",
+    "static/js/2.933b19cc.chunk.js.LICENSE.txt": "/static/js/2.933b19cc.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/DP1.8c0bbc88.jpg",
+    "static/media/Drink.ca395285.jpg": "/static/media/Drink.ca395285.jpg",
+    "static/media/KachoriChaat.d2207a33.jpg": "/static/media/KachoriChaat.d2207a33.jpg",
+    "static/media/Khaman.dbb63a91.jpg": "/static/media/Khaman.dbb63a91.jpg",
+    "static/media/Naan.f0c45baa.jpg": "/static/media/Naan.f0c45baa.jpg",
+    "static/media/PavBhaji.b7710611.jpg": "/static/media/PavBhaji.b7710611.jpg",
+    "static/media/Samosa.fe3c24e3.jpg": "/static/media/Samosa.fe3c24e3.jpg",
+    "static/media/Sandwich.37a83ebe.jpg": "/static/media/Sandwich.37a83ebe.jpg",
+    "static/media/Sweet.833bec9d.jpg": "/static/media/Sweet.833bec9d.jpg",
+    "static/media/Thali.2dde7c78.jpg": "/static/media/Thali.2dde7c78.jpg",
+    "static/media/Thali2.3670241d.jpg": "/static/media/Thali2.3670241d.jpg",
+    "static/media/dahi puri1.92dfe7e2.jpg": "/static/media/dahi puri1.92dfe7e2.jpg",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo.0ecf2f14.png": "/static/media/logo.0ecf2f14.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff926844.js",
+    "static/css/2.1944ade6.chunk.css",
+    "static/js/2.933b19cc.chunk.js",
+    "static/css/main.21edb01d.chunk.css",
+    "static/js/main.6a971eba.chunk.js"
+  ]
+}
